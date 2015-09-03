@@ -1,0 +1,9 @@
+---
+slug: :oasiz_datasource_redirect_update
+depends:
+  mikutter: 3.2.5
+  plugin: []
+version: '1.0'
+author: mikoto2000
+name: OASIZ datasource redirect update
+description: 指定されたデータソースのメッセージを、on_update イベントにリダイレクトします。
